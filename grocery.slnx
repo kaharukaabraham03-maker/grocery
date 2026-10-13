@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Class2.cs" />
+    <File Path="DatabaseHelper.cs" />
+  </Folder>
+  <Project Path="grocery.csproj" Id="906bb566-9db8-462b-96b6-0a16073a6695" />
+</Solution>
